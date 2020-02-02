@@ -1,5 +1,5 @@
 #define FASTLED_INTERNAL
-#include "FastLED.h"
+#include "lib8tion.h"
 #include <stdint.h>
 
 FASTLED_NAMESPACE_BEGIN
